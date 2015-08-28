@@ -1,0 +1,42 @@
+full date: 14:27:54 20 Aug 15 (Thu)
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 082015_1427_54
+log file:  QGas_Simulation_2_4.3_1.3_082015_1427_54.txt
+will output to file:  4.34
+Initial Temperature: Final Temperature: N Temperatures: Iterations: Max Velocity Temp: tau: Interaction: Movement: Decoherence type: gas y length: gas x length: Seed Bell States: Number of Seeded Bell States: File Name: [                    ][=                   ][==                  ][===                 ][====                ][=====               ][======              ][=======             ]full date: 15:08:07 21 Aug 15 (Fri)
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 082115_1508_07
+log file:  QGas_Simulation_2_4.3_1.3_082115_1508_07.txt
+will output to file:  4.34
+Initial Temperature: Final Temperature: N Temperatures: Iterations: Max Velocity Temp: tau: Interaction: Movement: Decoherence type: gas y length: gas x length: Seed Bell States: Number of Seeded Bell States: File Name: [                    ][=                   ][==                  ][===                 ][====                ][=====               ][========            ][======              ][=======             ][========            ][=========           ][==========          ][===========         ][============        ][=============       ][==============      ][===============     ][================    ][=================   ][==================  ][=================== ][====================][=========           ][==========          ][===========         ][============        ][=============       ][==============      ][===============     ][================    ][=================   ][==================  ][=================== ][====================]full date: 16:16:32 24 Aug 15 (Mon)
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 082415_1616_32
+log file:  QGas_Simulation_2_3.7_0.1_082415_1616_32.txt
+will output to file:  3.74
+Initial Temperature: Final Temperature: N Temperatures: Iterations: Max Velocity Temp: tau: Interaction: Movement: Decoherence type: gas y length: gas x length: Seed Bell States: Number of Seeded Bell States: File Name: [                    ][=                   ][==                  ].//simulation_2.sh: line 36: 16703 Terminated              python $code.py  <<eof
+$1
+$2
+$3
+$4
+$5
+$6
+$7
+$8
+$9
+${10}
+${11}
+${12}
+${13}
+${14}
+eof
+
+full date: 16:51:02 24 Aug 15 (Mon)
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 082415_1651_02
+log file:  QGas_Simulation_2_3.7_0.1_082415_1651_02.txt
+will output to file:  3.74
+Initial Temperature: Final Temperature: N Temperatures: Iterations: Max Velocity Temp: tau: Interaction: Movement: Decoherence type: gas y length: gas x length: Seed Bell States: Number of Seeded Bell States: File Name: [                    ][=                   ][==                  ][===                 ][====                ][=====               ][======              ][=======             ][========            ][=========           ][==========          ][===========         ][============        ][=============       ][==============      ][===============     ][================    ][=================   ][==================  ][=================== ][====================]

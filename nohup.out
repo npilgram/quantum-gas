@@ -1,0 +1,182 @@
+full date: 15:47:49 10 Aug 15 (Mon)
+full date: 15:47:49 10 Aug 15 (Mon)
+full date: 15:47:49 10 Aug 15 (Mon)
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 081015_1547_49
+log file:  QGas_Simulation_2_4.5_1.5_081015_1547_49.txt
+will output to file:  4.54
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 081015_1547_49
+log file:  QGas_Simulation_2_4.5_1.5_081015_1547_49.txt
+will output to file:  4.54
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 081015_1547_49
+log file:  QGas_Simulation_2_4.5_1.5_081015_1547_49.txt
+will output to file:  4.54
+Initial Temperature: Final Temperature: N Temperatures: Iterations: Max Velocity Temp: tau: Interaction: Movement: Decoherence type: gas y length: gas x length: Seed Bell States: Number of Seeded Bell States: File Name: [                    ]full date: 15:49:27 10 Aug 15 (Mon)
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 081015_1549_27
+log file:  QGas_Simulation_2_4.5_1.5_081015_1549_27.txt
+will output to file:  4.54
+full date: 15:49:27 10 Aug 15 (Mon)
+full date: 15:49:27 10 Aug 15 (Mon)
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 081015_1549_27
+log file:  QGas_Simulation_2_4.5_1.5_081015_1549_27.txt
+will output to file:  4.54
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 081015_1549_27
+log file:  QGas_Simulation_2_4.5_1.5_081015_1549_27.txt
+will output to file:  4.54
+Initial Temperature: Final Temperature: N Temperatures: Iterations: Max Velocity Temp: tau: Interaction: Movement: Decoherence type: gas y length: gas x length: Seed Bell States: Number of Seeded Bell States: File Name: [                    ]Initial Temperature: Final Temperature: N Temperatures: Iterations: Max Velocity Temp: tau: Interaction: Movement: Decoherence type: gas y length: gas x length: Seed Bell States: Number of Seeded Bell States: File Name: [                    ]Initial Temperature: Final Temperature: N Temperatures: Iterations: Max Velocity Temp: tau: Interaction: Movement: Decoherence type: gas y length: gas x length: Seed Bell States: Number of Seeded Bell States: File Name: [                    ]Initial Temperature: Final Temperature: N Temperatures: Iterations: Max Velocity Temp: tau: Interaction: Movement: Decoherence type: gas y length: gas x length: Seed Bell States: Number of Seeded Bell States: File Name: [                    ]Initial Temperature: Final Temperature: N Temperatures: Iterations: Max Velocity Temp: tau: Interaction: Movement: Decoherence type: gas y length: gas x length: Seed Bell States: Number of Seeded Bell States: File Name: [                    ][=                   ][=                   ][==                  ][==                  ][=                   ][=                   ][===                 ][===                 ][====                ][====                ][=                   ][=====               ][=====               ][=                   ][======              ][======              ][==                  ][==                  ][=======             ][=======             ][========            ][========            ][=========           ][=========           ][===                 ][===                 ][==========          ][==========          ][===========         ][===========         ][============        ][============        ][==                  ][=============       ][=============       ][====                ][====                ][==============      ][==                  ][==============      ][===============     ][===============     ][================    ][================    ][=================   ][=================   ][=====               ][=====               ][==================  ][==================  ][=================== ][=================== ][====================][====================][======              ][===                 ][======              ][===                 ][=======             ][=======             ].//simulation_2.sh: line 36: 28007 Terminated              python $code.py  <<eof
+$1
+$2
+$3
+$4
+$5
+$6
+$7
+$8
+$9
+${10}
+${11}
+${12}
+${13}
+${14}
+eof
+
+.//simulation_2.sh: line 36: 28010 Terminated              python $code.py  <<eof
+$1
+$2
+$3
+$4
+$5
+$6
+$7
+$8
+$9
+${10}
+${11}
+${12}
+${13}
+${14}
+eof
+
+full date: 15:14:48 11 Aug 15 (Tue)
+full date: 15:14:48 11 Aug 15 (Tue)
+full date: 15:14:48 11 Aug 15 (Tue)
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 081115_1514_48
+log file:  QGas_Simulation_2_4.5_1.5_081115_1514_48.txt
+will output to file:  4.54
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 081115_1514_48
+log file:  QGas_Simulation_2_4.5_1.5_081115_1514_48.txt
+will output to file:  4.54
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 081115_1514_48
+log file:  QGas_Simulation_2_4.5_1.5_081115_1514_48.txt
+will output to file:  4.54
+Initial Temperature: Final Temperature: N Temperatures: Iterations: Max Velocity Temp: tau: Interaction: Movement: Decoherence type: gas y length: gas x length: Seed Bell States: Number of Seeded Bell States: File Name: [                    ]full date: 15:19:44 11 Aug 15 (Tue)
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 081115_1519_44
+log file:  QGas_Simulation_2_4.5_1.5_081115_1519_44.txt
+will output to file:  4.54
+Initial Temperature: Final Temperature: N Temperatures: Iterations: Max Velocity Temp: tau: Interaction: Movement: Decoherence type: gas y length: gas x length: Seed Bell States: Number of Seeded Bell States: File Name: [                    ]Initial Temperature: Final Temperature: N Temperatures: Iterations: Max Velocity Temp: tau: Interaction: Movement: Decoherence type: gas y length: gas x length: Seed Bell States: Number of Seeded Bell States: File Name: [                    ]Initial Temperature: Final Temperature: N Temperatures: Iterations: Max Velocity Temp: tau: Interaction: Movement: Decoherence type: gas y length: gas x length: Seed Bell States: Number of Seeded Bell States: File Name: [                    ][=                   ][=                   ][==                  ][==                  ][========            ][=                   ][====                ][===                 ][===                 ][====                ][====                ][=====               ][=====               ][=                   ][======              ][=========           ][==                  ][======              ][=======             ][=======             ][========            ][========            ][=========           ][=========           ][==========          ][===                 ][==========          ][==========          ][=====               ][===========         ][===========         ][============        ][============        ][=============       ][=============       ][===========         ][==                  ][====                ][==============      ][==============      ][===============     ][===============     ][================    ][================    ][=================   ][=================   ][============        ][=====               ][==================  ][==================  ][=================== ][=================== ][======              ][====================][====================][======              ][=============       ][===                 ][=======             ][==============      ][=======             ][========            ][===============     ][====                ][=========           ][================    ][========            ][==========          ][=================   ][=====               ][===========         ][==================  ][============        ][=========           ][=================== ][=============       ][====================][======              ][==============      ][==========          ][===============     ][=======             ][================    ][===========         ][=================   ][========            ][==================  ][============        ][=================== ][====================][=========           ][=============       ]full date: 14:59:01 14 Aug 15 (Fri)
+full date: 14:59:01 14 Aug 15 (Fri)
+full date: 14:59:01 14 Aug 15 (Fri)
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 081415_1459_01
+log file:  QGas_Simulation_2_3.5_1.2_081415_1459_01.txt
+will output to file:  3.54
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 081415_1459_01
+log file:  QGas_Simulation_2_3.5_1.2_081415_1459_01.txt
+will output to file:  3.54
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 081415_1459_01
+log file:  QGas_Simulation_2_3.5_1.2_081415_1459_01.txt
+will output to file:  3.54
+Initial Temperature: Final Temperature: N Temperatures: Iterations: Max Velocity Temp: tau: Interaction: Movement: Decoherence type: gas y length: gas x length: Seed Bell States: Number of Seeded Bell States: File Name: [                    ].//simulation_2.sh: line 36: 14711 Terminated              python $code.py  <<eof
+$1
+$2
+$3
+$4
+$5
+$6
+$7
+$8
+$9
+${10}
+${11}
+${12}
+${13}
+${14}
+eof
+
+.//simulation_2.sh: line 36: 14712 Terminated              python $code.py  <<eof
+$1
+$2
+$3
+$4
+$5
+$6
+$7
+$8
+$9
+${10}
+${11}
+${12}
+${13}
+${14}
+eof
+
+.//simulation_2.sh: line 36: 14713 Terminated              python $code.py  <<eof
+$1
+$2
+$3
+$4
+$5
+$6
+$7
+$8
+$9
+${10}
+${11}
+${12}
+${13}
+${14}
+eof
+
+full date: 15:06:32 14 Aug 15 (Fri)
+full date: 15:06:32 14 Aug 15 (Fri)
+full date: 15:06:32 14 Aug 15 (Fri)
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 081415_1506_33
+log file:  QGas_Simulation_2_3.5_1.2_081415_1506_33.txt
+will output to file:  3.54
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 081415_1506_33
+ 
+running: QGas_Simulation_2.py
+on date (MMDDYY_HourMin_Sec): 081415_1506_33
+log file:  QGas_Simulation_2_3.5_1.2_081415_1506_33.txt
+will output to file:  3.54
+log file:  QGas_Simulation_2_3.5_1.2_081415_1506_33.txt
+will output to file:  3.54
+Initial Temperature: Final Temperature: N Temperatures: Iterations: Max Velocity Temp: tau: Interaction: Movement: Decoherence type: gas y length: gas x length: Seed Bell States: Number of Seeded Bell States: File Name: [                    ][==========          ]Initial Temperature: Final Temperature: N Temperatures: Iterations: Max Velocity Temp: tau: Interaction: Movement: Decoherence type: gas y length: gas x length: Seed Bell States: Number of Seeded Bell States: File Name: [                    ]Initial Temperature: Final Temperature: N Temperatures: Iterations: Max Velocity Temp: tau: Interaction: Movement: Decoherence type: gas y length: gas x length: Seed Bell States: Number of Seeded Bell States: File Name: [                    ][=                   ][==============      ][==                  ][=                   ][===                 ][====                ][=====               ][=                   ][======              ][==                  ][=======             ][===========         ][========            ][=========           ][===============     ][==========          ][===                 ][===========         ][============        ][=============       ][==============      ][==                  ][====                ][===============     ][================    ][============        ][================    ][=================   ][==================  ][=====               ][=================== ][====================][======              ][===                 ][=============       ][=================   ][=======             ][========            ][====                ][==============      ][==================  ][=========           ][==========          ][=================== ][===============     ][=====               ][===========         ][============        ][====================][================    ][=============       ][======              ][==============      ][=================   ][===============     ][=======             ][================    ][==================  ][=================   ][========            ][==================  ][=================== ][=================== ][=========           ][====================][====================][==========          ][===========         ][============        ][=============       ][==============      ][===============     ][================    ][=================   ][==================  ][=================== ][====================]
